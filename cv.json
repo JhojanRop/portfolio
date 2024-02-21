@@ -1,0 +1,190 @@
+{
+  "basics": {
+    "name": "Jhojan Ropero",
+    "label": "Frontend developer con enfoque multifacético y gran capacidad de adaptación",
+    "image": "/me.webp",
+    "email": "jhojanropero0@gmail.com",
+    "phone": "+57 3025099469",
+    "url": "https://midu.dev",
+    "summary": "Apasionado por la tecnología y el desarrollo de software. Me gusta aprender y compartir conocimientos. Me considero una persona autodidacta, proactiva y con gran capacidad de adaptación. Me gusta trabajar en equipo y siempre busco la mejora continua.",
+    "location": {
+      "address": "",
+      "postalCode": "050034",
+      "city": "Medellín",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "jhojanrop",
+        "url": "https://linkedin.com/in/jhojanrop"
+      },
+      {
+        "network": "GitHub",
+        "username": "JhojanRop",
+        "url": "https://github.com/JhojanRop"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Sofware integrado para biblioteca",
+      "position": "Lead Frontend development",
+      "startDate": "2022-06-01",
+      "endDate": "2022-09-30",
+      "summary": "Implementé un Dashboard para una biblioteca. Este permitía a los usuarios visualizar y gestionar su inventario de libros. Además, desarrollé un módulo para estudiantes que les permitía ver los libros disponibles.",
+      "highlights": ["Started the project"]
+    },
+    {
+      "name": "Software de reporte de daños",
+      "position": "Frontend development",
+      "startDate": "2022-10-01",
+      "endDate": "2022-12-07",
+      "summary": "Colaboré en el desarrollo de una aplicación web para informar y gestionar daños en un plantel educativo. Implementé funcionalidades como reportes, interacción con la base de datos, manejo de archivos y seguimiento del historial.",
+      "highlights": ["Started the project"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Institución Universitaria Pascual Bravo",
+      "url": "https://www.pascualbravo.edu.co/",
+      "area": "Ingeniería de Software",
+      "studyType": "Professional",
+      "startDate": "2023-08-07",
+      "endDate": null,
+      "score": "4.6",
+      "courses": ["Ingeniería de Software"]
+    },
+    {
+      "institution": "Servicio Nacional de Aprendizaje",
+      "url": "https://www.sena.edu.co/",
+      "area": "Programación de Software",
+      "studyType": "Technical",
+      "startDate": "2021-02-01",
+      "endDate": "2022-12-01",
+      "score": "4.0",
+      "courses": ["Técnico en Programación de Software"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"]
+    },
+    {
+      "name": "Git",
+      "level": "Intermedio",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermedio",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente", "Git"]
+    },
+    {
+      "name": "React",
+      "level": "Intermedio",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Vue.js",
+      "level": "Basic",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Python",
+      "level": "Intermedio",
+      "keywords": ["Desarrollo Web", "Backend", "Fullstack", "API REST"]
+    },
+    {
+      "name": "Flask",
+      "level": "Intermedio",
+      "keywords": ["Desarrollo Web", "Backend", "Fullstack", "API REST"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Resistance calculator",
+      "isActive": true,
+      "description": "Calcudora de resistencia electrónica a partir de los colores de sus bandas",
+      "highlights": ["Tech", "Proyectos útiles"],
+      "url": "https://jhojanrop.github.io/resistance-calculator/",
+      "github": "https://github.com/JhojanRop/resistance-calculator"
+    }
+  ]
+}
